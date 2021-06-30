@@ -7,7 +7,7 @@ links:
   - label: '<i class="fab fa-github fa-3x"></i>'
     url: "https://github.com/zakarie"
   - label: '<i class="far fa-envelope fa-3x"></i>'
-    url: "mailto:zakariehashi@email.com"
+    url: "mailto:zakariehashi@gmail.com"
   - label: '<i class="fab fa-linkedin-in fa-3x"></i>'
     url: "https://www.linkedin.com/in/zakariehashi/"
   - label: '<i class="fab fa-quora fa-3x"></i>'

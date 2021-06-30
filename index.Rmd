@@ -1,0 +1,24 @@
+---
+title: ""
+image: "data/images/zakarie.png"
+links:
+  - label: '<i class="fab fa-twitter fa-3x"></i>'
+    url: "https://twitter.com/ZakarieHashi"
+  - label: '<i class="fab fa-github fa-3x"></i>'
+    url: "https://github.com/zakarie"
+  - label: '<i class="far fa-envelope fa-3x"></i>'
+    url: "mailto:zakariehashi@email.com"
+  - label: '<i class="fab fa-linkedin-in fa-3x"></i>'
+    url: "https://www.linkedin.com/in/zakariehashi/"
+  - label: '<i class="fab fa-quora fa-3x"></i>'
+    url: "https://www.quora.com/profile/Zakarie-Hashi-MS"
+    
+output: postcards::jolla
+  
+site: distill::distill_website
+---
+
+* I'm Zakarie, a strategy data scientist with a love for <a href = "https://www.r-project.org/">R</a> and good coffee ☕
+* I occasionally write about things I am working on <a href = "blog.html">here</a> 📝
+* If you like, you can find out more about me <a href = "about.html">here</a> 🙋
+* Or get in touch using the links below 📩

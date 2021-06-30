@@ -3,7 +3,7 @@ title: "R + Data + Coffee"
 description: |
   Zakarie Hashi's blog
 output_dir: "_site"
-base_url: https://hfshr.xyz/
+base_url: https://zakariehashi.netlify.app/
 navbar:
   search: false
   right:
